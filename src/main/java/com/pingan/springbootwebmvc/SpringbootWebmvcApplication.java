@@ -14,7 +14,6 @@ public class SpringbootWebmvcApplication {
 		return "index";
 	}
 
-
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootWebmvcApplication.class, args);
 	}
